@@ -531,7 +531,7 @@
 			"file": "日本語の単語",
 			"settings":
 			{
-				"buffer_size": 720,
+				"buffer_size": 796,
 				"line_ending": "Unix"
 			}
 		}
@@ -988,15 +988,15 @@
 					"file": "日本語の単語",
 					"settings":
 					{
-						"buffer_size": 720,
+						"buffer_size": 796,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								792,
+								792
 							]
 						],
 						"settings":
