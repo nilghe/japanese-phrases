@@ -531,7 +531,7 @@
 			"file": "日本語の単語",
 			"settings":
 			{
-				"buffer_size": 796,
+				"buffer_size": 832,
 				"line_ending": "Unix"
 			}
 		}
@@ -779,7 +779,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 			"",
@@ -988,15 +988,15 @@
 					"file": "日本語の単語",
 					"settings":
 					{
-						"buffer_size": 796,
+						"buffer_size": 832,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								792,
-								792
+								831,
+								831
 							]
 						],
 						"settings":
@@ -1052,7 +1052,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 30.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
