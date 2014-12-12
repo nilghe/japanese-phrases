@@ -528,10 +528,13 @@
 			}
 		},
 		{
+			"contents": "日本語の単語\n\n確認（かくにん）\n　confirmation; validation (noun)\n	ex: 確認してください\n\n対応（たいおう）\n	dealing with; coping (noun)\n	ex: 対応しました\n\n呉れる（くれる）\n	to give, to be given (verb)\n\n終了　（しゅうりょう）\n	end, close, termination (noun)\n	ex:　今週の作業が終了です。\n\nなくては\n	without, unless\n	終了しなくては (without finishing)\n\nいけない\n	not good\n\n了解 (りょうかい)\n	Understanding\n\n作業 (さぎょう)\n	work\n	ex:　今週の作業が終了です。\n\n完璧 (かんべき)\n	perfect;complete;flawless\n	ex: ファイル完璧\n\nでき次第 (できしだい)\n	as soon as completed\n	ex:　対応でき次第\n\n教える (おしえる)\n  teach; inform; to tell\n  ex: 対応でき次第教えてください\n\n画面 (がめん)\n　screen\n\n編集 (へんしゅう)\n  edit\n  ex: このページを編集してください\n\n機能 (きのう)\n  function\n\n選択 (せんたく)\n  selection\n\n画像 (がぞう)\n  image\n  ex: 画像選択\n\n枠 (わく)\n  frame\n  ex: 枠内\n\n移動 (いどう)\n　move\n	ex:　移動する\n\n検索 (けんさく)\n	search\n\n自身 (じしん)\n  own\n\n奴隷 (どれい)\n	slave\n\n監督 (かんとく)\n	Director\n\n奴隷監督 (どれいかんとく)\n	Slave Director\n \nありえない\n	Impossible or unbelievable\n\n年賀状 (ねんがじょう)\n  New Year's Card\n\n準備 (じゅんび)\n  Preparation\n\n季節 (きせつ)\n	Season\n\n発想 (はっそう)\n  Idea / Concept\n\n連絡 (れんらく)\n  to contact / to get in touch with\n\n配信 (はいしん)\n  delivery / distribution\n\n先 (さき)\n  prior; former; some time ago\n\n業務用 (ぎょうむよう)\n	business purposes; business use\n\n原稿 (げんこう)\n　manuscript; copy\n\n共に (ともに)\n　along with; both\n\nと共に (とともに)\n	together with\n\nたかが\n  It is only\n\nされど\n  even so; be as that may; \n\n",
 			"file": "日本語の単語",
+			"file_size": 1834,
+			"file_write_time": 1418117375000000,
 			"settings":
 			{
-				"buffer_size": 1180,
+				"buffer_size": 1232,
 				"line_ending": "Unix"
 			}
 		}
@@ -954,7 +957,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -1036,15 +1039,15 @@
 					"file": "日本語の単語",
 					"settings":
 					{
-						"buffer_size": 1180,
+						"buffer_size": 1232,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1179,
-								1179
+								1230,
+								1230
 							]
 						],
 						"settings":
@@ -1100,7 +1103,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 538.0,
+						"translation.y": 610.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
