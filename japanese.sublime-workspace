@@ -531,7 +531,7 @@
 			"file": "日本語の単語",
 			"settings":
 			{
-				"buffer_size": 1454,
+				"buffer_size": 1474,
 				"line_ending": "Unix"
 			}
 		}
@@ -792,6 +792,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"刺青",
 			"次第",
 			"対応",
 			"#howto p",
@@ -918,8 +919,7 @@
 			">.button",
 			"Electricity",
 			"<a href=\"#\" title=\"View Infographic here. This opens a new window.\" id=\"electricityInfographic\" target=\"_blank\" class=\"infographic-cta rotis popout-trigger desktop-sleeper\">View Infographic here</a>",
-			"The Future of Australian Industries",
-			"Disrupt or be disrupted"
+			"The Future of Australian Industries"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -1036,15 +1036,15 @@
 					"file": "日本語の単語",
 					"settings":
 					{
-						"buffer_size": 1454,
+						"buffer_size": 1474,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1326,
-								1326
+								972,
+								972
 							]
 						],
 						"settings":
@@ -1100,7 +1100,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 865.0,
+						"translation.y": 930.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1257,6 +1257,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"7448",
+				"/Users/jim/Documents/Projects/sublime-projects/7448-brain-game.sublime-project"
+			],
 			[
 				"",
 				"/Users/jim/Documents/Projects/sublime-projects/8809-fs-insurance.sublime-project"
